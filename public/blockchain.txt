@@ -1,0 +1,1 @@
+a:3:{i:0;s:88:"Dunyo senu=ing tog'angmas yo amaki vachvhangmas Doim qarab ko'lingga otang yoki onangmas";i:1;s:10:"degan ekan";i:2;s:64:"ee5a99941a3afa8e035f93aa78fa07992b028e4f529a2a7d5566ba4599cdf941";}
